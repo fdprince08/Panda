@@ -23,4 +23,4 @@ Project created using bootstrap version 4.0.0, bootstrap social version 5.1.1, a
    npm start
   ```
 
-## live demo: https://bootstrapdantar.netlify.com
+## live demo: 
